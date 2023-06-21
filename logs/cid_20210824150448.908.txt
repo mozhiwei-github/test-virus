@@ -1,0 +1,11 @@
+[2021-08-24 15:04:52,837][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:04:57,104][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:01,329][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:05,007][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:08,645][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:12,295][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:15,945][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:19,595][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:05:23,282][log.py 113][ERROR]: unknown file extension: .exe
+[2021-08-24 15:06:05,030][log.py 113][ERROR]: unknown file extension: .bat
+[2021-08-24 15:06:09,042][log.py 113][ERROR]: unknown file extension: .bat

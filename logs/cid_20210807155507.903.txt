@@ -1,0 +1,1 @@
+[2021-08-07 15:55:08,024][log.py 113][ERROR]: [Errno 2] No such file or directory: '.\\screen_pictures\\filename.jpg'
